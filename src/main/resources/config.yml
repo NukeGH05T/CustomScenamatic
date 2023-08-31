@@ -1,0 +1,12 @@
+lang-file: en_US.yml
+
+active-scenes:
+  - demoScene
+
+demoScene:
+  delay: 25
+  frames:
+    - "\uE001"
+    - "\uE002"
+    - "\uE003"
+    - "\uE004"

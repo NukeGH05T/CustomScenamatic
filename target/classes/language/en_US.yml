@@ -1,0 +1,12 @@
+RELOAD_COMMAND_DESCRIPTION: 'Reloads the plugin'
+RELOAD_SUCCESSFULL: '&bReload Successful'
+RELOAD_FAILED: '&cReload Failed'
+RELOAD_NO_PERM: '&cYou do not have permission to run this command'
+
+HELP_COMMAND_DESCRIPTION: 'Shows available commands'
+
+CREATE_COMMAND_DESCRIPTION: 'Create an interaction entity'
+
+CMDM_NO_PERM_DEFAULT: '&cYou do not have permission to run this command'
+CMDM_INVALID_COMMAND: '&eThe command does not exist'
+CMDM_HELP_SUGGEST: '&eUse &a/cscene help&e for help'

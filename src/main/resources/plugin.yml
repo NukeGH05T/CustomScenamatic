@@ -1,0 +1,12 @@
+name: CustomScenamatic
+version: '${project.version}'
+main: me.nukeghost.customscenamatic.CustomScenamatic
+api-version: '1.16'
+prefix: CS
+authors: [NukeGH05T]
+description: Scenamatics in Minecraft.
+depend: [WorldGuard]
+commands:
+  customscenamatic:
+    aliases: [cs, cscene, customs]
+    default: true
